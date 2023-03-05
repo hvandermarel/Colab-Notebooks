@@ -1,2 +1,2 @@
 # Colab-Notebooks
-Google Colab Notebook repositoru
+Repository to store and distribute public versions of Google Colab (Jupyter) notebooks.
